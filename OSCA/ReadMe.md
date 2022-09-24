@@ -1,4 +1,4 @@
-# OSCA PPt's
+# OSCA PPT's
 
 Week 1 - [Github Link](https://github.com/hunterz-killer/Sem2-Notes/blob/Main/OSCA/Week1.pdf)
 
