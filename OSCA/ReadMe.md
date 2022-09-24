@@ -9,3 +9,7 @@ Week 3 - [Github Link](https://github.com/hunterz-killer/Sem2-Notes/blob/Main/OS
 Week 4 - [Github Link](https://github.com/hunterz-killer/Sem2-Notes/blob/Main/OSCA/Week4.pdf)
 
 Week 5 - [Github Link](https://github.com/hunterz-killer/Sem2-Notes/blob/Main/OSCA/Week5.pdf)
+
+Week 6 - [Github Link](https://github.com/hunterz-killer/Sem2-Notes/blob/Main/OSCA/Week6.pdf)
+
+Week 7 - [Github Link](https://github.com/hunterz-killer/Sem2-Notes/blob/Main/OSCA/Week7.pdf)
