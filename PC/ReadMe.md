@@ -18,3 +18,7 @@ Week 8 - [Github Link](https://github.com/hunterz-killer/Sem2-Notes/blob/Main/PC
 
 Week 9 - [Github Link](https://github.com/hunterz-killer/Sem2-Notes/blob/Main/PC/Week9.pdf)
 
+Week 10 - [Github Link](https://github.com/hunterz-killer/Sem2-Notes/blob/Main/PC/Week10.pdf)
+
+Week 11 - [Github Link](https://github.com/hunterz-killer/Sem2-Notes/blob/Main/PC/Week11.pdf)
+
