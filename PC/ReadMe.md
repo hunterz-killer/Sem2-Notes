@@ -22,3 +22,9 @@ Week 10 - [Github Link](https://github.com/hunterz-killer/Sem2-Notes/blob/Main/P
 
 Week 11 - [Github Link](https://github.com/hunterz-killer/Sem2-Notes/blob/Main/PC/Week11.pdf)
 
+Week 12 - [Github Link](https://github.com/hunterz-killer/Sem2-Notes/blob/Main/PC/Week12.pdf)
+
+Week 13 - [Github Link](https://github.com/hunterz-killer/Sem2-Notes/blob/Main/PC/Week13.pdf)
+
+Week 14 - [Github Link](https://github.com/hunterz-killer/Sem2-Notes/blob/Main/PC/Week14.pdf)
+
